@@ -1,0 +1,11 @@
+product_id,sales_date,estimated_price,unit_of_measurement,product_category,sale_price
+92,2023-07-24,489,4,Shoes,78
+90,2023-07-01,329,1,Clothing,409
+63,2023-07-22,298,3,Games,396
+47,2023-07-12,463,10,Garden,429
+35,2023-07-28,394,6,Industrial,209
+96,2023-07-06,73,6,Grocery,103
+17,2023-07-05,277,1,Health,227
+34,2023-07-15,334,8,Clothing,456
+93,2023-07-03,221,10,Baby,492
+23,2023-07-13,486,1,Shoes,357

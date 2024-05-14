@@ -1,0 +1,11 @@
+product_id,sales_date,estimated_price,unit_of_measurement,product_category,sale_price
+5,2023-07-07,257,2,Garden,402
+100,2023-07-18,371,9,Industrial,309
+76,2023-07-10,386,3,Sports,355
+4,2023-07-22,57,3,Shoes,126
+39,2023-07-30,401,6,Games,93
+38,2023-07-24,459,3,Music,296
+90,2023-07-04,430,9,Computers,204
+55,2023-07-17,188,5,Sports,55
+29,2023-07-06,470,4,Industrial,83
+85,2023-07-16,108,5,Industrial,81

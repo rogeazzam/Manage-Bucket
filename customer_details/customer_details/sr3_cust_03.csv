@@ -1,0 +1,11 @@
+product_id,sales_date,estimated_price,unit_of_measurement,product_category,sale_price
+25,2023-07-30,342,1,Kids,158
+40,2023-07-04,374,4,Computers,91
+44,2023-07-17,438,8,Kids,431
+33,2023-07-21,371,8,Garden,244
+91,2023-07-13,169,10,Clothing,376
+71,2023-07-11,426,8,Shoes,149
+23,2023-07-22,175,4,Clothing,87
+79,2023-07-12,254,7,Music,73
+29,2023-07-11,196,3,Games,308
+47,2023-07-20,305,10,Electronics,135

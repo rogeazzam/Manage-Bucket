@@ -1,0 +1,11 @@
+product_id,sales_date,estimated_price,unit_of_measurement,product_category,sale_price
+46,2023-07-01,495,6,Music,343
+14,2023-07-17,235,4,Garden,180
+5,2023-07-25,420,5,Electronics,488
+37,2023-07-17,284,2,Jewelry,419
+24,2023-07-14,432,3,Tools,333
+46,2023-07-20,175,9,Electronics,301
+67,2023-07-03,351,2,Games,450
+37,2023-07-01,321,5,Movies,272
+9,2023-07-30,494,3,Clothing,412
+81,2023-07-17,262,5,Shoes,354

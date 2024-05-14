@@ -1,0 +1,11 @@
+product_id,sales_date,estimated_price,unit_of_measurement,product_category,sale_price
+68,2023-07-15,323,10,Outdoors,447
+78,2023-07-09,124,3,Music,273
+5,2023-07-16,195,3,Movies,356
+47,2023-07-10,137,9,Health,160
+47,2023-07-30,403,9,Sports,215
+49,2023-07-29,243,4,Health,273
+7,2023-07-18,378,5,Shoes,452
+51,2023-07-03,138,9,Sports,55
+5,2023-07-29,74,7,Outdoors,263
+35,2023-07-14,298,5,Health,428
