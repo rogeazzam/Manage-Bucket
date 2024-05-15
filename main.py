@@ -185,9 +185,10 @@ def main():
 
     subscribe_email(topic_arn, 'rogeazzam22@gmail.com')
     # topic_arn = "arn:aws:sns:us-west-2:590184012973:MyTOpic"
-    
+
     message = ""
     try:
+        ent = input('Press enter to move files ')
         # Moving objects from customer_details/ to sr1/ directory
         message = move_objects(bucket_name, 'customer_details/', 'sr1/')
     except AssertionError as e:
